@@ -1,0 +1,10 @@
+body{
+	background-image: url(../images/barBack.jpg);
+	background-repeat: no-repeat;
+	margin: 0px;
+}
+
+p{
+	border: solid white 3px;
+	color: white;
+}

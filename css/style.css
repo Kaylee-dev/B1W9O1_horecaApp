@@ -10,6 +10,11 @@ body{
 	text-align: center;
 	border: solid black 2px;
 	background-color: white;
-	width: 600px;
+	width: 400px;
 	height: 500px;
+}
+
+h1{
+	color: white;
+	text-align: center;
 }
